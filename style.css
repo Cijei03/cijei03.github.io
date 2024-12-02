@@ -1,0 +1,29 @@
+@font-face
+{
+    font-family: "Afacad";
+    src: url("resources/Afacad-Regular.ttf") format('truetype');
+}
+
+body
+{
+	overflow-y: scroll;
+	outline: 0px;
+	margin: 0px;
+	margin-bottom: 50px;
+	padding: 0px;
+	width: 100vw;
+	font-family: Afacad;
+	background-color: #0034b6;
+	color: #b3b3b3;
+	float: left;
+}
+
+a
+{
+	font-weight: 900;
+	color: #ffffff;
+}
+a:visited
+{
+	color: hwb(217 40% 0%);
+}
